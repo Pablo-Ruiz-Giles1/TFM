@@ -1,0 +1,18 @@
+Using network 'arbitrum'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0xb98ba76b2aa7a6237947cf677e13d9a4f265c2d38b912dfca57d20c87b463101:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.0000030869 ETH
+Bloque: 17394259
+Tiempo: 04:58:27 AM
+Posterior: 2962 ms
+--------------------------------------------------------------------------
+Tiempo después: 2962 ms
+Creadas: 1
+Coste total en gas (en wei): 3086900000000 wei
+Coste total en ether: 0.0000030869 ETH
+Número de bloques creados: 17394264

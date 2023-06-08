@@ -1,0 +1,18 @@
+Using network 'sepolia'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0x5c89f0a3c1ba1b723fcbd1953525b7c978e49888155d3228678f6c5f788d9b9c:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.000030869 ETH
+Bloque: 3436050
+Tiempo: 02:26:00 AM
+Posterior: 13306 ms
+--------------------------------------------------------------------------
+Tiempo después: 13306 ms
+Creadas: 1
+Coste total en gas (en wei): 30869000000000 wei
+Coste total en ether: 0.000030869 ETH
+Número de bloques creados: 3436050

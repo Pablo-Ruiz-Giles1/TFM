@@ -1,0 +1,187 @@
+Using network 'avalanche'.
+
+Cuenta del creador = 0x297adbb802536Bb79B5d7d580B25074D4e40De33
+Tiempo antes: 341 ms
+Total entradas 12
+Compramos todas entradas:
+Comprada entrada numero: 1
+Transacción 0xc2c0546e65e61d7c950970d9609401a0fb1365aacc1d87ed43542873ab17f130:
+Estado: true
+Gas utilizado: 0x10f60
+Coste en wei: 0.0017368 ETH
+Bloque: 20978944
+Tiempo: 02:43:47 AM
+Comprada entrada numero: 2
+Transacción 0x96c04baab5c727fc254fb23e4d2fd2ce4775ea5af1cbd03859db879fc7de145d:
+Estado: true
+Gas utilizado: 0x10f6c
+Coste en wei: 0.0017371 ETH
+Bloque: 20978945
+Tiempo: 02:43:54 AM
+Comprada entrada numero: 3
+Transacción 0xcaf72e2df3156dc196274e8464b17f4af2873d0aceab7ab9c81bed8d5ac90499:
+Estado: true
+Gas utilizado: 0x10f6c
+Coste en wei: 0.0017371 ETH
+Bloque: 20978947
+Tiempo: 02:43:59 AM
+Comprada entrada numero: 4
+Transacción 0x1dc8b4e7a522112340de32fb9d287ef30ea4fb75bcee8a5e9cbb3708e5db92a0:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978948
+Tiempo: 02:44:04 AM
+Comprada entrada numero: 5
+Transacción 0x8e3b9f51b8bc4130238034fdb694bb40a4eeda66aefbb9551038f55a16c5a205:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978950
+Tiempo: 02:44:10 AM
+Comprada entrada numero: 6
+Transacción 0x45b0a7fb14e537291fc70f154903451c676c8adc01d90c4c1216985995aafedc:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978953
+Tiempo: 02:44:17 AM
+Comprada entrada numero: 7
+Transacción 0x086e0979874459980b17fe6f2afd4538ca0869e7e184321fca9a4222e8ec5d1a:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978955
+Tiempo: 02:44:21 AM
+Comprada entrada numero: 8
+Transacción 0xfdfb6edf35275b321d2e4a90cea2f5c4059d6dcf0257075679b0bfeabe74170c:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978957
+Tiempo: 02:44:28 AM
+Comprada entrada numero: 9
+Transacción 0x6fd4412bec626080af12218cb411483646824c3f0b610edb76fbf7a30c522b8e:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978958
+Tiempo: 02:44:32 AM
+Comprada entrada numero: 10
+Transacción 0x0054e5f5c6752acfbb683acd41fba2ae525920511a8ea9315786083a74d12629:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978960
+Tiempo: 02:44:39 AM
+Comprada entrada numero: 11
+Transacción 0xb885fcfb5f94040360ad4726fde3298e46ed0ec9e874783b0e69aa45c0bf33ed:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978961
+Tiempo: 02:44:44 AM
+Comprada entrada numero: 12
+Transacción 0x4e2e04e3c34fea46ef68e836d1b10877395da2879e19d1c222f38ce116f890b6:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.0013096 ETH
+Bloque: 20978962
+Tiempo: 02:44:51 AM
+Modificada entrada numero: 1
+Transacción 0x5398f0f5c38e021fc7d7b76d91c61bdedbe639ded22bd8bbc3886f79abaa7254:
+Estado: true
+Gas utilizado: 0x7245
+Coste en wei: 0.000731325 ETH
+Bloque: 20978964
+Tiempo: 02:44:58 AM
+Modificada entrada numero: 2
+Transacción 0xcc8b53ce186b5d0bd4d2e0232f74e2f0ffd3faf106ff5c509b3f19cc17e6fe0b:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978966
+Tiempo: 02:45:02 AM
+Modificada entrada numero: 3
+Transacción 0xe01778b56f6c0e25714986e8de95851194b3de4644288aa1b41989eeac5e8bcb:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978969
+Tiempo: 02:45:08 AM
+Modificada entrada numero: 4
+Transacción 0xf555426239186f64940b0ab341de21d902d1ea441471fdf698bdf39cf99f019a:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978972
+Tiempo: 02:45:15 AM
+Modificada entrada numero: 5
+Transacción 0x2df16258b655cc9523d22fc209efdf35ae01977ccef866acd6dd53a4552648a3:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978973
+Tiempo: 02:45:19 AM
+Modificada entrada numero: 6
+Transacción 0x776401f0a9195e2083ac5c4ef5062c241e545bef0696099559744fda76cbf52f:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978975
+Tiempo: 02:45:28 AM
+Modificada entrada numero: 7
+Transacción 0x7015039cfe677107b2c16f3a3b98848eac441f067326873af1ba8a4bede5659b:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978977
+Tiempo: 02:45:33 AM
+Modificada entrada numero: 8
+Transacción 0x602d2edcafc0ef24570a4c051acd93445b895f8e90f28cd063e6e28ac14d8e9c:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978980
+Tiempo: 02:45:40 AM
+Modificada entrada numero: 9
+Transacción 0x4eae5aaf8a2530d91411ffb86961d78a479b076110b737856d7e2429946ac094:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978982
+Tiempo: 02:45:45 AM
+Modificada entrada numero: 10
+Transacción 0x0cf8dae2f92f87b4bbaa05cc1064c225a80dfbbb641376466fe25c1d19bbc154:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978985
+Tiempo: 02:45:51 AM
+Modificada entrada numero: 11
+Transacción 0xf9febad2aca79f7130e8af1f3b46e010805d627f41b1e4b72c37704401df179b:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978988
+Tiempo: 02:45:57 AM
+Modificada entrada numero: 12
+Transacción 0xce9c26196f0748698727fedc7da2a08b84d5237fd56c538102daddb8a0d3e304:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.000731625 ETH
+Bloque: 20978991
+Tiempo: 02:46:03 AM
+Eliminamos contrato
+Transacción 0xae60e4d958bea03a5ced728e7c5d92d119b52b780b8a8a0eeaefa895d52b3021:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.000771725 ETH
+Bloque: 20978994
+Tiempo: 02:46:09 AM
+--------------------------------------------------------------------------
+Tiempo después: 146473 ms
+Creadas: 25
+Coste total en gas (en wei): 26548325000000000 wei
+Coste total en ether: 0.026548325 ETH
+Número de bloques creados: 20978994

@@ -1,0 +1,18 @@
+Using network 'avalanche'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0x28d0e0d45fd15719a80219c07bc913f776edd7430cd58abe61276dab0f89f37e:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.000771725 ETH
+Bloque: 21137743
+Tiempo: 04:55:19 AM
+Posterior: 7857 ms
+--------------------------------------------------------------------------
+Tiempo después: 7857 ms
+Creadas: 1
+Coste total en gas (en wei): 771725000000000 wei
+Coste total en ether: 0.000771725 ETH
+Número de bloques creados: 21137745

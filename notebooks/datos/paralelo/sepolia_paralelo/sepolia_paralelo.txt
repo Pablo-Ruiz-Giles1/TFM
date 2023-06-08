@@ -1,0 +1,192 @@
+Using network 'sepolia'.
+
+Cuenta del creador = 0x297adbb802536Bb79B5d7d580B25074D4e40De33
+Tiempo antes: 378 ms
+Total entradas 12
+Compramos todas entradas:
+--1--
+Antes: 704 ms
+Comprada entrada numero: 1
+Transacción 0xa871fd5f4f8f84b30376a6a84dbb5373484be7ebb6987add05d2f7812ab9215f:
+Estado: true
+Gas utilizado: 0x10f60
+Coste en wei: 0.00006947200069472 ETH
+Bloque: 3295034
+Tiempo: 06:19:24 AM
+Comprada entrada numero: 7
+Transacción 0x624b5d7dcf3d4e075be206a5c69c7941b58d8534862041bb235031c97316830e:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295034
+Tiempo: 06:19:24 AM
+Comprada entrada numero: 12
+Transacción 0x081e97f2576590b252b3c79cd2f8cc824c4131f8a232584d0fe2019607c182b0:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295034
+Tiempo: 06:19:24 AM
+Comprada entrada numero: 6
+Transacción 0x2ca8b5060697b5f6e84324ae622e584f9bcac4329843ef028211844aba0e380d:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295034
+Tiempo: 06:19:24 AM
+Comprada entrada numero: 4
+Transacción 0x0dc5f88992908b4b78a667ab38c4a762623f745a28617055b2320ad91a9e7656:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295034
+Tiempo: 06:19:24 AM
+Comprada entrada numero: 8
+Transacción 0x455c9916298179d1b00f5f87689a8f63199df0ec398c491ea2f4263119ed1e8e:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Comprada entrada numero: 9
+Transacción 0x7f3a67d51dff0ff23b8033ee2b2f9a3b381de4a5853b9164a4f6b972e1d71e80:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Comprada entrada numero: 2
+Transacción 0x343668cd19e9cd6112285b779f9bf991b23c59bdc7aa896dc1003c4c933b96da:
+Estado: true
+Gas utilizado: 0x10f6c
+Coste en wei: 0.00006948400069484 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Comprada entrada numero: 3
+Transacción 0x281e9c249774087d7f384052deb5e3c70d3af42f1c6935e050fb7b46af5abd08:
+Estado: true
+Gas utilizado: 0x10f6c
+Coste en wei: 0.00006948400069484 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Comprada entrada numero: 5
+Transacción 0xd1c6e3247b888442ecb96b20bef78f7f1f93260879b1f651df5fc5ac067cd2c7:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Comprada entrada numero: 11
+Transacción 0x97851aec8ef07d97d6d4875350ddd126b343ebd1e756ebfebd81724b7a99beb4:
+Estado: true
+Gas utilizado: 0xcca0
+Coste en wei: 0.00005238400052384 ETH
+Bloque: 3295035
+Tiempo: 06:19:36 AM
+Posterior: 26492 ms
+--2--
+Antes: 26493 ms
+Modificada entrada numero: 7
+Transacción 0x61579075e570948ac1f3d538cf4386c9b23403cf5cc54fa5df91020166896bf8:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 8
+Transacción 0x29e921d7114c88f42426ce1894ac24736b36416f9a149108fae6d58ba9e5da59:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 4
+Transacción 0x55f040c527799faa31b7898477a3f8dc158e91f6ca2fbd9bfa98c9a15d760a1d:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 3
+Transacción 0x4f3691beac1d366f974312f829cbd7b685b7254114130d90a5c4a087166ad17a:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 10
+Transacción 0x1856583b7a189fb41e6f169d5bb05f9ef4fda69ff12ad480d38084824a4d2269:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 11
+Transacción 0x25399fe7cf18390812b9df94a801cc076ca545c86e94bf22b9327c5fbc0eb1c4:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 9
+Transacción 0xfc6f5d6bd478b488b58cb316460aa581f3367583e31af498caaf79cc5f181be0:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 2
+Transacción 0x93eeae9ab6043fcf2b794a84bfcf3eea87be0bc749a673cc92b6d29b2c5173cb:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 1
+Transacción 0x33be027f9177361007134339029eb638146dc5d82ba123b5326a5831a217eac8:
+Estado: true
+Gas utilizado: 0x7245
+Coste en wei: 0.00002925300029253 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 5
+Transacción 0xea2c64a258a9615105adfde9eb66f7183f5f4e919404450904ef8aea94fce037:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295036
+Tiempo: 06:19:48 AM
+Modificada entrada numero: 6
+Transacción 0xbca29666d2a9795b2da69e4199dff2f96cbe3a21a58684a9abf4d2a9c719760b:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295037
+Tiempo: 06:20:12 AM
+Posterior: 65675 ms
+--3--
+Antes: 65675 ms
+Modificada entrada numero: 12
+Transacción 0x76732e57a5ff5362bc5dde74fdd7636369fb984c81a4c9eee0886b418c70aa67:
+Estado: true
+Gas utilizado: 0x7251
+Coste en wei: 0.00002926500029265 ETH
+Bloque: 3295037
+Tiempo: 06:20:12 AM
+Posterior: 83560 ms
+--------------------------------------------------------------------------
+Tiempo después: 83561 ms
+Creadas: 23
+Coste total en gas (en wei): 978680010765480 wei
+Coste total en ether: 0.00097868001076548 ETH
+Número de bloques creados: 3295036
+UnhandledRejections detected
+Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'timestamp')
+      at imprimirInfoTransaccion (/home/pablo/Desktop/TFM/proyectos/entrada/scripts/paralelo_entradas.js:74:75)
+      at runMicrotasks (<anonymous>)
+      at processTicksAndRejections (node:internal/process/task_queues:96:5)
+} TypeError: Cannot read properties of null (reading 'timestamp')
+    at imprimirInfoTransaccion (/home/pablo/Desktop/TFM/proyectos/entrada/scripts/paralelo_entradas.js:74:75)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

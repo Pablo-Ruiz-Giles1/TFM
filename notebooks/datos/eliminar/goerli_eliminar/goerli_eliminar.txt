@@ -1,0 +1,18 @@
+Using network 'goerli'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0x5977333d235ed70ae06d35a0edd552e436a025838a3e892ca8d6cbaf6813892f:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.000000000002531258 ETH
+Bloque: 8872194
+Tiempo: 04:48:36 AM
+Posterior: 13020 ms
+--------------------------------------------------------------------------
+Tiempo después: 13020 ms
+Creadas: 1
+Coste total en gas (en wei): 2531258 wei
+Coste total en ether: 0.000000000002531258 ETH
+Número de bloques creados: 8872194

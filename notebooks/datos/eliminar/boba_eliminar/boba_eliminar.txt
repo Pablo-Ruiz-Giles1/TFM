@@ -1,0 +1,18 @@
+Using network 'boba'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0x71fe7e478ec2aac05a0f246a98da2bfe048eb766c043dd75b806d3c4245d31c3:
+Estado: true
+Gas utilizado: 0x8f72
+Coste en wei: 0.000036722 ETH
+Bloque: 9635
+Tiempo: 04:46:19 AM
+Posterior: 2396 ms
+--------------------------------------------------------------------------
+Tiempo después: 2397 ms
+Creadas: 1
+Coste total en gas (en wei): 36722000000000 wei
+Coste total en ether: 0.000036722 ETH
+Número de bloques creados: 9635

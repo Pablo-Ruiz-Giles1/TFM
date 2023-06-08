@@ -1,0 +1,18 @@
+Using network 'celo'.
+
+--3--
+Antes: 0 ms
+Elimininar contrato NaN
+Transacción 0x488470fa8d51ef795b93ccbec181d0ddcbc84736ac54d2a42f594d59a2459e2e:
+Estado: true
+Gas utilizado: 0x6e6d
+Coste en wei: 0.000706725 ETH
+Bloque: 17358822
+Tiempo: 04:51:34 AM
+Posterior: 5146 ms
+--------------------------------------------------------------------------
+Tiempo después: 5146 ms
+Creadas: 1
+Coste total en gas (en wei): 706725000000000 wei
+Coste total en ether: 0.000706725 ETH
+Número de bloques creados: 17358822

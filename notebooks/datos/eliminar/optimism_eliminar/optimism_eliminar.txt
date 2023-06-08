@@ -1,0 +1,18 @@
+Using network 'optimism'.
+
+--3--
+Antes: 2 ms
+Elimininar contrato NaN
+Transacción 0x9cbbb3c01632e8a6924caba42117513952665b586be81a9f91b3f1d2beae22c8:
+Estado: true
+Gas utilizado: 0x7895
+Coste en wei: 0.00004630350154345 ETH
+Bloque: 8368045
+Tiempo: 04:49:18 AM
+Posterior: 6794 ms
+--------------------------------------------------------------------------
+Tiempo después: 6794 ms
+Creadas: 1
+Coste total en gas (en wei): 46303501543450 wei
+Coste total en ether: 0.00004630350154345 ETH
+Número de bloques creados: 8368046
