@@ -1,0 +1,23 @@
+{
+  "name": "asignatura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanpago/BCDA_Dapp_Asignatura_Lite_2022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanpago/BCDA_Dapp_Asignatura_Lite_2022/issues"
+  },
+  "homepage": "https://github.com/sanpago/BCDA_Dapp_Asignatura_Lite_2022#readme"
+}
