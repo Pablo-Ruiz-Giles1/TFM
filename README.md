@@ -8,9 +8,9 @@ El análisis que se pretende realizar contempla una componente teórica y otra p
 
 
 ## Tabla de contenidos
-- [Requisitos] (#requisitos)
+- [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Arquitectura física y lógica](#arquitectura física y lógica)
+- [Arquitectura física y lógica](#arquitectura-física-y-lógica)
 - [Estructura de directorios](#estructura-de-directorios)
 - [Contacto](#contacto)
 
