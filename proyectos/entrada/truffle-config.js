@@ -116,18 +116,7 @@ module.exports = {
       skipDryRun: true
     },
 
-   //No va
-    polygon2: {
-      provider: () => new HDWalletProvider(mnemonic, `https://polygon-mumbai.g.alchemy.com/v2/K5qEmGa2LR9PZj7X23a5iFgqBJwxAC50`),
-      network_id: '80001',
-      gas: 6700000,           // Gas sent with each transaction (default: ~6700000)
-      gasPrice: 3000000000000,  // 20 gwei (in wei) (default: 100 gwei)
-     // confirmations: 2,
-     // networkCheckTimeoutnetworkCheckTimeout: 10000,
-     // timeoutBlocks: 200,
-      addressIndex: 2,
-      skipDryRun: true
-    },
+
 
     polygon: {
       provider: () => new HDWalletProvider(mnemonic, 'https://polygon-mumbai.infura.io/v3/0e276510efb64f12b1be824a4df90bdf'),
@@ -152,7 +141,7 @@ module.exports = {
       skipDryRun: true
     },
 
-    optimism: { //funciona
+    optimism: { 
       provider: () => new HDWalletProvider(mnemonic, `https://twilight-greatest-gadget.optimism-goerli.discover.quiknode.pro/6918bb175c978e256f65f79572cff2d4436b3c1e/`),
       network_id: '420',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -164,7 +153,7 @@ module.exports = {
       skipDryRun: true
     },
 
-    optimism_bear: { //funciona
+    optimism_bear: { 
       provider: () => new HDWalletProvider(mnemonic, `https://rpc.buildbear.io/beautiful-dexter-jettster-d0f0d085`),
       network_id: '8699',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -176,7 +165,7 @@ module.exports = {
       skipDryRun: true
     },
 
-    polygon_bear: { //funciona
+    polygon_bear: { 
       provider: () => new HDWalletProvider(mnemonic, `https://rpc.buildbear.io/wily-mon-mothma-d588ce58`),
       network_id: '8703',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -188,7 +177,7 @@ module.exports = {
       skipDryRun: true
     },
 
-    arbitrum_bear: { //funciona
+    arbitrum_bear: { 
       provider: () => new HDWalletProvider(mnemonic, `https://rpc.buildbear.io/arbitrary-san-hill-0195e25c`),
       network_id: '8702',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -199,7 +188,7 @@ module.exports = {
       addressIndex: 2,
       skipDryRun: true
     },
-    sepolia_bear: { //funciona
+    sepolia_bear: { 
       provider: () => new HDWalletProvider(mnemonic, `https://rpc.buildbear.io/impossible-jango-fett-8a120a19`),
       network_id: '8766',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -210,7 +199,7 @@ module.exports = {
       addressIndex: 2,
       skipDryRun: true
     },
-    ethereum_bear: { //funciona
+    ethereum_bear: { 
       provider: () => new HDWalletProvider(mnemonic, `https://rpc.buildbear.io/dull-kit-fisto-f543e3a4`),
       network_id: '8765',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -221,7 +210,7 @@ module.exports = {
       addressIndex: 2,
       skipDryRun: true
     },
-    goerli: { //funciona
+    goerli: { 
       provider: () => new HDWalletProvider(mnemonic, `https://goerli.infura.io/v3/916e6f54f9064d8696dfd7b87807bc0b`),
       network_id: '5',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -233,7 +222,7 @@ module.exports = {
       skipDryRun: true
     },
 
-    celo: { //funciona
+    celo: { 
       provider: () => new HDWalletProvider(mnemonic, `https://celo-alfajores.infura.io/v3/ce153e3ba5774a9a9eeca35979b0ce31`),
       network_id: '44787',
       gas: 8500000,           // Gas sent with each transaction (default: ~6700000)
@@ -246,7 +235,7 @@ module.exports = {
     },
 
 
-    //Falla con muchas transacciones
+   
     boba: {
       provider: () => new HDWalletProvider(mnemonic, `https://goerli.boba.network/`),
       network_id: '2888',

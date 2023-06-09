@@ -91,22 +91,22 @@ En el diagrama de flujo se representa de forma sencilla la secuencia de las etap
 
 Dentro de la estructura de directorios del proyecto, se pueden distinguir cuatro carpetas principales, cada una con sus respectivas funciones:
 
-1. Carpeta "Proyectos": Esta carpeta contiene todos los elementos necesarios para el desarrollo de la primera fase del proyecto. A continuación, se detallan los componentes incluidos en esta carpeta:
-   - Carpeta "Contracts": Contiene el smart contract "Entrada.sol", el cual se utilizará para llevar a cabo pruebas en diferentes redes blockchain.
-   - Carpeta "Migrations": Contiene el archivo "deploy", utilizado para migrar el contrato mencionado anteriormente.
-   - Carpeta "Scripts": Aquí se encuentran los distintos scripts que se utilizarán para realizar las pruebas necesarias.
-   - Carpeta "Build": Almacena el smart contract compilado.
-   - Archivo "truffle-config": Contiene todas las configuraciones necesarias para las diferentes redes blockchain utilizadas en las pruebas.
+1. Carpeta **Proyectos**: Esta carpeta contiene todos los elementos necesarios para el desarrollo de la primera fase del proyecto. A continuación, se detallan los componentes incluidos en esta carpeta:
+   - Carpeta **Contracts**: Contiene el smart contract "Entrada.sol", el cual se utilizará para llevar a cabo pruebas en diferentes redes blockchain.
+   - Carpeta **Migrations**: Contiene el archivo "deploy", utilizado para migrar el contrato mencionado anteriormente.
+   - Carpeta **Scripts**: Aquí se encuentran los distintos scripts que se utilizarán para realizar las pruebas necesarias.
+   - Carpeta**Build**: Almacena el smart contract compilado.
+   - Archivo **truffle-config**: Contiene todas las configuraciones necesarias para las diferentes redes blockchain utilizadas en las pruebas.
 
-2. Carpeta "Datos volcados": Esta carpeta cuenta con dos subdirectorios fundamentales para el procesamiento de archivos de texto en bruto. A continuación, se describen los subdirectorios incluidos:
-   - Carpeta "Secuencial": Contiene los scripts utilizados para procesar los datos de tipo secuencial.
-   - Carpeta "Paralelo": Contiene los scripts utilizados para procesar los datos de tipo paralelo y eliminado.
+2. Carpeta **Datos volcados**: Esta carpeta cuenta con dos subdirectorios fundamentales para el procesamiento de archivos de texto en bruto. A continuación, se describen los subdirectorios incluidos:
+   - Carpeta **Secuencial**: Contiene los scripts utilizados para procesar los datos de tipo secuencial.
+   - Carpeta **Paralelo**: Contiene los scripts utilizados para procesar los datos de tipo paralelo y eliminado.
 
-3. Carpeta "Notebooks": Esta carpeta contiene todos los elementos necesarios para la última fase del proyecto, la fase de visualización de datos. A continuación, se detallan los componentes incluidos:
-   - Carpeta "datos": Contiene cuatro subdirectorios (eliminar, secuencial, paralelo y scan), donde se encuentran los datos procesados durante la etapa previa. Estos subdirectorios son esenciales para la correcta visualización de los datos en la fase final del proyecto.
-   - Carpeta "Notebooks": Contiene los notebooks desarrollados para procesar y visualizar los datos.
+3. Carpeta **Notebooks**: Esta carpeta contiene todos los elementos necesarios para la última fase del proyecto, la fase de visualización de datos. A continuación, se detallan los componentes incluidos:
+   - Carpeta **datos**: Contiene cuatro subdirectorios (eliminar, secuencial, paralelo y scan), donde se encuentran los datos procesados durante la etapa previa. Estos subdirectorios son esenciales para la correcta visualización de los datos en la fase final del proyecto.
+   - Carpeta **Notebooks**: Contiene los notebooks desarrollados para procesar y visualizar los datos.
 
-4. Carpeta "Propuesta": Esta carpeta contiene todos los elementos necesarios para poder realizar la propuesta de práctica.
+4. Carpeta **Propuesta**: Esta carpeta contiene todos los elementos necesarios para poder realizar la propuesta de práctica.
 
 La estructura de archivos descrita anteriormente permite organizar de manera clara los diferentes componentes del proyecto, facilitando su acceso y mantenimiento.
 
