@@ -45,6 +45,10 @@ cd TFM
 
 Una vez dentro de la carpeta raíz, podremos explorar el proyecto en su totalidad, pudiendo ejecutar los scripts y visualizar los notebooks.
 
+Para visualizar los notebooks, dirijase a la carpeta de los notebooks y ejecute.
+```
+jupyter notebooks
+```
 
 ## Arquitectura física y lógica
 
@@ -75,11 +79,11 @@ La arquitectura física del proyecto se compone de los siguientes elementos, cad
 La arquitectura lógica del proyecto se basa en las siguientes fases:
 
 
- - Obtención de datos: En esta etapa se desarrollará un smart contract escrito en Solidity, que se desplegará en las diferentes redes de pruebas para realizar transacciones. Se crearán scripts para generar transacciones de forma secuencial y paralela, evaluando la capacidad de la red para procesar transacciones simultáneas.
+ - **Obtención de datos**: En esta etapa se desarrollará un smart contract escrito en Solidity, que se desplegará en las diferentes redes de pruebas para realizar transacciones. Se crearán scripts para generar transacciones de forma secuencial y paralela, evaluando la capacidad de la red para procesar transacciones simultáneas.
 
- - Procesamiento de datos: En esta etapa se analizarán y manipularán los datos obtenidos en la etapa anterior. Se emplearán scripts específicos que se adaptarán al tipo de datos secuenciales o paralelos. Se generarán archivos en formato CSV que contendrán la información relevante para el estudio.
+ - **Procesamiento de datos**: En esta etapa se analizarán y manipularán los datos obtenidos en la etapa anterior. Se emplearán scripts específicos que se adaptarán al tipo de datos secuenciales o paralelos. Se generarán archivos en formato CSV que contendrán la información relevante para el estudio.
 
- - Visualización de datos: Los archivos generados en la fase anterior se exportarán a un diccionario de dataframes para facilitar la manipulación y análisis de los datos. Se realizarán modificaciones en las columnas de los dataframes y se exportarán archivos CSV de los Etherscan descargados de las redes probadas. La visualización final proporcionará una comprensión clara de los datos, facilitando la toma de decisiones y la extracción de conclusiones precisas.
+ - **Visualización de datos**: Los archivos generados en la fase anterior se exportarán a un diccionario de dataframes para facilitar la manipulación y análisis de los datos. Se realizarán modificaciones en las columnas de los dataframes y se exportarán archivos CSV de los Etherscan descargados de las redes probadas. La visualización final proporcionará una comprensión clara de los datos, facilitando la toma de decisiones y la extracción de conclusiones precisas.
 
 A continuación, se muestra el diagrama de flujo del proyecto:
 
