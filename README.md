@@ -95,7 +95,7 @@ Dentro de la estructura de directorios del proyecto, se pueden distinguir cuatro
    - Carpeta **Contracts**: Contiene el smart contract "Entrada.sol", el cual se utilizará para llevar a cabo pruebas en diferentes redes blockchain.
    - Carpeta **Migrations**: Contiene el archivo "deploy", utilizado para migrar el contrato mencionado anteriormente.
    - Carpeta **Scripts**: Aquí se encuentran los distintos scripts que se utilizarán para realizar las pruebas necesarias.
-   - Carpeta**Build**: Almacena el smart contract compilado.
+   - Carpeta **Build**: Almacena el smart contract compilado.
    - Archivo **truffle-config**: Contiene todas las configuraciones necesarias para las diferentes redes blockchain utilizadas en las pruebas.
 
 2. Carpeta **Datos volcados**: Esta carpeta cuenta con dos subdirectorios fundamentales para el procesamiento de archivos de texto en bruto. A continuación, se describen los subdirectorios incluidos:
