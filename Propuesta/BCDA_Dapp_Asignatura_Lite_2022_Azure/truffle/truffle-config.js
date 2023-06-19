@@ -46,7 +46,7 @@
 
  const HDWalletProvider = require('@truffle/hdwallet-provider');
  
- const mnemonic = 'butter make soccer squeeze hour grape cloth pull mass town scrub among';
+ const mnemonic = 'Frase';
 
 module.exports = {
   /**

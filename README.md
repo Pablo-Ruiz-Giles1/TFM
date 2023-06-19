@@ -47,7 +47,7 @@ Una vez dentro de la carpeta raíz, podremos explorar el proyecto en su totalida
 
 Para visualizar los notebooks, dirijase a la carpeta de los notebooks y ejecute.
 ```
-jupyter notebooks
+jupyter notebook
 ```
 
 ## Arquitectura física y lógica
